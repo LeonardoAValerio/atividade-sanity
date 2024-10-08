@@ -12,7 +12,7 @@ export const karenType = defineType({
 
     defineField({
         name: 'Sobrenome',
-        type: 'String',
+        type: 'string',
       }),
 
       defineField({

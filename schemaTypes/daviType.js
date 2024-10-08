@@ -22,7 +22,7 @@ export const daviType = defineType({
         type: 'string',
       }),
     defineField({
-        name: 'data de nascimento',
+        name: 'data_de_nascimento',
         type: 'datetime',
       }),
     defineField({
